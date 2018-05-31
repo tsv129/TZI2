@@ -1,0 +1,10 @@
+D:\GitHub\TZI2\Samos2\bin\Debug\Samos2.exe.config
+D:\GitHub\TZI2\Samos2\bin\Debug\Samos2.exe
+D:\GitHub\TZI2\Samos2\bin\Debug\Samos2.pdb
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.csprojResolveAssemblyReference.cache
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.Form1.resources
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.Properties.Resources.resources
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.csproj.GenerateResource.cache
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.csproj.CoreCompileInputs.cache
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.exe
+D:\GitHub\TZI2\Samos2\obj\Debug\Samos2.pdb
